@@ -53,7 +53,7 @@ ___
 >
 > My first quarter of my MBA program, I struggled miserably. I matriculated in to the MBA program with minimum qualitative analysis skills and little to none business acumen. Plus, the curriculum was accelerated so I struggled with keeping up.  Sadly, my pride would not allow me to admit to others that I was struggling. I made the mistake of not asking for help.
 >
-> To overturn my mistake, I did three things. First, I reached out to my instructor. I inquired about additional resources that would help my grasping the material. Second, I built rapport with the teaching assistant: asking questions, attending help sessions, and increasing productivity by doing the homework in advance. I also identified my learning style. I am a visual and kinesthetic learner. I learn best by displaying concept relationships with a diagram or map, and by practicing, doing, or simulations.  
+> To overturn my mistake, I did four things. First, I reached out to my instructor. I inquired about additional resources that would help my grasping the material. Second, I built rapport with the teaching assistant: asking questions, attending help sessions, and increasing productivity by doing the homework in advance. I also identified my learning style. I am a visual and kinesthetic learner. I learn best by displaying concept relationships with a diagram or map, and by practicing, doing, or simulations.  
 >
 > Lastly and most importantly, I reached out to others in my cohort. I organized help sessions and joined study groups. I discovered others in my cohort were having challenges as well. Through our shared experience, we bonded and built community. 
 >
