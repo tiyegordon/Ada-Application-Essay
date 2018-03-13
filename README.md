@@ -8,7 +8,7 @@
 ___
 ## Essay Questions 
 ___
-### 1. Why do you want join Ada Developers Academy? Why are you interested in programming? Tell us about your journey thus far to learn about and confirm your interest in programming.  
+### 1. Why do you want to join Ada Developers Academy? Why are you interested in programming? Tell us about your journey thus far to learn about and confirm your interest in programming.  
 >
 #### I want to join Ada Developers Academy for three reasons:  
 > *	**Mission and Values**: Ada is more than a software development training program. It is a social impact organization that understands that diversity in technology is a social justice emergency remedied by advocating inclusivity, lifelong learning, and supportive communities. 
