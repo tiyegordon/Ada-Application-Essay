@@ -44,9 +44,9 @@ ___
 >
 #### By implementing change.
 > I will continue my community activism and social entrepreneurial work to facilitate gender, ethnic, economic, and disability inclusivity in the tech industry by: 
-* Continuing to host 4-day innovation science/ STEM summer camps for teens.
-* Institute an intensive-coding camp and internship program for high school students who are underrepresented in the tech industry. 
-* Deploy STEM supplemental education/ after school programs in local inner-city schools using project based teaching methodologies. 
+> * Continuing to host 4-day innovation science/ STEM summer camps for teens.
+> * Institute an intensive-coding camp and internship program for high school students who are underrepresented in the tech industry. 
+> * Deploy STEM supplemental education/ after school programs in local inner-city schools using project based teaching methodologies. 
 >
 >
 ### 4. Tell us about a time you made a mistake. What did you learn? What would you do differently? 
