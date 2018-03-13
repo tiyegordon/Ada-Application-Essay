@@ -36,13 +36,13 @@ ___
 >
 ### 3. Read Ada's Vision, Mission and Inclusivity Statement. How will you contribute to Ada's vision for an inclusive and diverse community?  
 > 
-#### By being present. 
+#### _By being present_. 
 > Working as a software developer, effectively contributing to projects; participating in networking events, speaking at professional conferences, joining boards or being an advisor to entities that promote diversity in tech, and taking on leadership roles in the company I work for. Most importantly, I will establish presence by creating voice in all of the aforementioned spaces. 
 >
-#### By extending a ladder to others.  
+#### _By extending a ladder to others_.  
 > I believe to whom much is given, much is expected. As an Ada alum, I will volunteer with Ada as a mentor to or teaching assistant for future cohorts.  
 >
-#### By implementing change.
+#### _By implementing change_.
 > I will continue my community activism and social entrepreneurial work to facilitate gender, ethnic, economic, and disability inclusivity in the tech industry by: 
 > * Continuing to host 4-day innovation science/ STEM summer camps for teens.
 > * Institute an intensive-coding camp and internship program for high school students who are underrepresented in the tech industry. 
