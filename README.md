@@ -47,3 +47,16 @@ ___
 * Continuing to host 4-day innovation science/ STEM summer camps for teens.
 * Institute an intensive-coding camp and internship program for high school students who are underrepresented in the tech industry. 
 * Deploy STEM supplemental education/ after school programs in local inner-city schools using project based teaching methodologies. 
+>
+>
+### 4. Tell us about a time you made a mistake. What did you learn? What would you do differently? 
+>
+> My first quarter of my MBA program, I struggled miserably. I made the mistake of not asking for help. I matriculated in to the MBA program with minimum qualitative analysis skills and little to none business acumen. Plus, the curriculum was accelerated so I struggled with keeping up.  Sadly, my pride would not allow me to admit to others that I was struggling. 
+>
+> To overturn my mistake, I did three things. First, I reached out to my instructor. I inquired about additional resources that would help my grasping the material. Second, I built rapport with the teaching assistant: asking questions, attending help sessions, and increasing productivity by doing the homework in advance. 
+>
+> I also identified my learning style. I am a visual and kinesthetic learner. I learn best by displaying concept relationships with a diagram or map, and by practicing, doing, or simulations. 
+>
+> Lastly and most importantly, I reached out to others in my cohort. I organized help sessions and joined study groups. I discovered others in my cohort were having challenges as well. Through our shared experience, we bonded and built community. 
+>
+> One of the lessons I took from my MBA experience is the importance of communication, transparency, and collaboration. It is okay to admit you do not know how to do something.  It is okay to ask for help. The key is to fail fast and to be proactive. If I had to redo my first quarter, I would immediately execute the aforementioned.  
