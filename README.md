@@ -15,9 +15,17 @@ ___
 > *	**Curriculum**: I love to learn complex concepts. The Ada curriculum is challenging, flexible, and adaptable. Participants are trained in multiple programing language competencies. Students are taught ‘the how’ of software development. This skill set will serve me well in the future by decreasing the learning curve when being introduced to foreign coding languages.  
 > *	**Learning Environment**:  Being a part of a cohort of women and gender diverse persons is comforting; it creates a safe space, as well as, a positive, collaborative and supportive environment for learning.  
 >
-#### I **love** the creative aspect of programming. Thus far, my exposure to technology/programming has been through:
+#### I love the creative aspect of programming. Thus far, my exposure to technology/programming has been through:
 > *	**Social Entrepreneurship**: Founder of a non-profit (Teen V.O.I.C.E. Inc) that teaches minority teens the logic and sequencing of programming, the science of innovation, and 3D printing/prototyping. 
 > *	**Courses**: Completed an introductory HTML and CSS course on Codeacademy.com and took an introduction to Computer Science course in college that I enjoyed. 
 > *	**Support Group**: Friends and mentors who are coders and/or work in the IT field. 
 > *	**Internships**: Interned with technology startups, worked in the marketing function as a project manager using scrum and agile methodologies. 
 > *	**Volunteerism**: Volunteered at Sandlapper Elementary (SC) and IT-ology (SC) teaching digital literacy and igniting youths’ passion for STEM. 
+>
+>
+### 2. If you are accepted into our program, where do you see your career in 5 years? How do you see yourself impacting the technology field? 
+> My passion is software development and disruptive technologies for the growing enterprise. I want to launch a career as a developer in the blockchain space and consult companies across diverse industry sectors on how to leverage distributed ledger systems for optimal business performance.  
+> The first two to three years will be spent on the software development side working on different projects, perfecting multiple programing languages, and building expertise in at least one blockchain stack. In year four, I will solidify my expertise by leading and contributing to blockchain research and development projects. By the end of year five, I will transition into solutions architecture so that I can work with key enterprise decision makers and advise/consult them on the business value of blockchain technical solutions.  
+> Ada will provide foundational technical skills. My ultimate goal is to be a Chief Technology Innovation Officer for a Fortune 100 company. I currently hold an MBA. I am testing for the Project Management Professionals certification in May 2018. My MBA and PMP coupled with the technical and developer skills obtained through Ada will transform me into a three-dimensional tech professional: one who can contribute to and manage software development teams/projects; lead product research/ development divisions; consultant in the disruptive technology space; and eventually join the C-suite as a technology executive.  
+> I will continue to impact the technology industry through my community activism and social entrepreneurial endeavors by working with minority youth, exposing them to technology, and encouraging them to pursue STEM careers. 
+
