@@ -15,7 +15,7 @@ ___
 > *	**Curriculum**: I love to learn complex concepts. The Ada curriculum is challenging, flexible, and adaptable. Participants are trained in multiple programing language competencies. Students are taught ‘the how’ of software development. This skill set will serve me well in the future by decreasing the learning curve when being introduced to foreign coding languages.  
 > *	**Learning Environment**:  Being a part of a cohort of women and gender diverse persons is comforting; it creates a safe space, as well as, a positive, collaborative and supportive environment for learning.  
 >
-#### I love the creative aspect of programming. Thus far, my exposure to technology/programming has been through:
+#### I **love** the creative aspect of programming. Thus far, my exposure to technology/programming has been through:
 > *	**Social Entrepreneurship**: Founder of a non-profit (Teen V.O.I.C.E. Inc) that teaches minority teens the logic and sequencing of programming, the science of innovation, and 3D printing/prototyping. 
 > *	**Courses**: Completed an introductory HTML and CSS course on Codeacademy.com and took an introduction to Computer Science course in college that I enjoyed. 
 > *	**Support Group**: Friends and mentors who are coders and/or work in the IT field. 
